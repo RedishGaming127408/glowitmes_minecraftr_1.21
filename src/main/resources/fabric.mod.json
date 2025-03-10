@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "id": "glowingitems",
+  "version": "1.0.0",
+  "name": "Glowing Items Mod",
+  "description": "Makes held items glow in hand!",
+  "authors": ["YourName"],
+  "contact": {
+    "homepage": "https://github.com/YourGitHubUsername/glowingitemsmod"
+  },
+  "license": "MIT",
+  "environment": "*",
+  "entrypoints": {
+    "main": [
+      "com.example.glowingitems.GlowingItemsMod"
+    ]
+  },
+  "depends": {
+    "fabricloader": ">=0.14.22",
+    "minecraft": "1.21"
+  }
+}
