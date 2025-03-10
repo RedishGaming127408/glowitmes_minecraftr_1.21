@@ -1,6 +1,5 @@
 package com.example.glowingitems;
 
-import net.minecraft.client.MinecraftClient;
 import net.minecraft.item.ItemStack;
 import net.minecraft.registry.Registries;
 import net.minecraft.util.Identifier;
